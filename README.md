@@ -4,7 +4,7 @@
 
 ### AI & ML Engineer | Generative AI Developer | Full-Stack Developer | DevOps Learner
 
-<img src="banner.png" alt="Reeya Borikar Banner" width="100%"/>
+<img src="imagebanner.png" alt="Reeya Borikar Banner" width="100%"/>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Generative+AI+Developer;Python+%7C+LangChain+%7C+LangGraph;Full+Stack+Developer;Docker+%7C+Kubernetes+%7C+Jenkins;Always+Learning+Something+New)
 
